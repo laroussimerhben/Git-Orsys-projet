@@ -1,2 +1,2 @@
 # Git-Orsys-projet
-Ce projet contient les fichiers du projet pour la formation Git de Orsys.
+Ce référentiel contient le code source d'un projet de blog qui sera utilisé tout au long de la formation.
